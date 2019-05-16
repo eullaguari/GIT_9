@@ -53,7 +53,6 @@ public class GUIView extends JPanel {
 
 		this.gameView.setBackground(Color.cyan); //Cambio de Color
 
-
 		// Set the layout on myself
 		setLayout(new BorderLayout());
 
